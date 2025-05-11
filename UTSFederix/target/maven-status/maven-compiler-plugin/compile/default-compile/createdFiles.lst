@@ -1,0 +1,10 @@
+com\mycompany\utsfederix\Menu.class
+com\mycompany\utsfederix\Makanan.class
+com\mycompany\utsfederix\Pesanan.class
+com\mycompany\utsfederix\Main.class
+com\mycompany\utsfederix\ItemMakanan.class
+com\mycompany\utsfederix\UTSFederix.class
+java\sqlSQLException.class
+com\mycompany\utsfederix\detail_Pesanan.class
+com\mycompany\utsfederix\KoneksiDatabase.class
+com\mycompany\utsfederix\Minuman.class
