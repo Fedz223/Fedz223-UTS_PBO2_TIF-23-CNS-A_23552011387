@@ -38,5 +38,5 @@
 ## Demo Proyek
 <ul>
   <li>Github: <a href="">https://github.com/Fedz223/Fedz223-UTS_PBO2_TIF-23-CNS-A_23552011387.git</a></li>
-  <li>Youtube/drive: <a href="">https://drive.google.com/drive/folders/1_Xfdjj2EXrIEZMcePct7L2o4m1XELbJc?usp=sharing</a></li>
+  <li>Youtube/drive: <a href="">https://drive.google.com/drive/folders/1_Xfdjj2EXrIEZMcePct7L2o4m1XELbJc?usp=drive_link</a></li>
 </ul>
